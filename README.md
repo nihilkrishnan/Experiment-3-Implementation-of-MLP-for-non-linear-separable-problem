@@ -112,4 +112,5 @@ OUTPUT:
 ![Screenshot 2023-10-15 213931](https://github.com/Abrinnisha6/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/118889454/4bd1979b-4617-4aba-a724-8760a0ef46c7)
 
 RESULT:
+
 Thus a MLP is implemented for non linear separable problem using Python.
